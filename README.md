@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashen Bandara
 - 👀 I’m interested in Web Development / Scripting/ App Development
 - 🌱 I’m currently learning SQL/Php/Angular/Django
-- 💞️ I’m looking to collaborate on Web Developer Internship/ Junior Developer (React/Flask/Django)
+- 💞️ I’m looking to collaborate on SE/QA Internship/Associate Engineer
 - 📫 How to reach me bandaraashen02@gmail.com
 
 <!---
