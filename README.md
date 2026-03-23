@@ -51,7 +51,7 @@ Assisted with backend development, debugging, and real-world project implementat
 
 ## Wanna Have a Look at Some Analytics ?
 ### GitHub Stats
-![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenbandara02&show_icons=true&theme=tokyonight)
+![Ashen's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=ashenbandara02&theme=tokyonight&hide_border=true)
 
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashenbandara02&theme=tokyonight)
