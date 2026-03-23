@@ -50,10 +50,7 @@ Assisted with backend development, debugging, and real-world project implementat
 **Email:** ashen@arventics.com
 
 ## Wanna Have a Look at Some Analytics ?
-### GitHub Stats
-![Ashen's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=ashenbandara02&theme=tokyonight&hide_border=true)
-
-### GitHub Streak
+### GitHub Streak & Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashenbandara02&theme=tokyonight)
 
 ### Top Languages
