@@ -48,3 +48,16 @@ Assisted with backend development, debugging, and real-world project implementat
 **GitHub:** [ashenbandara02](https://github.com/ashenbandara02)
 **LinkedIn:** [Ashen Bandara](https://www.linkedin.com/in/ashen-bandara-976176284/)
 **Email:** ashen@arventics.com
+
+## Wanna Have a Look at Some Analytics ?
+### GitHub Stats
+![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenbandara02&show_icons=true&theme=tokyonight)
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ashenbandara02&theme=tokyonight)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashenbandara02&layout=compact&theme=tokyonight)
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashenbandara2002?theme=dark&font=baloo)
