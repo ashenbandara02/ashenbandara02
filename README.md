@@ -26,11 +26,8 @@ Experienced Software Engineer with a strong focus on backend engineering, scalab
 
 ## Professional Experience
 
-**Founder – Arventics**
-Leading the design, development, and deployment of SaaS platforms, backend systems, AI solutions, and DevOps workflows. Responsible for system architecture, performance optimization, and product delivery. Partnered with Spaceylon to implement AI agents and gaming features for their websites.
-
 **Software Engineer – Avance Solutions**
-Developed enterprise-level software, implemented backend features, and integrated various systems.
+Develop software, implement backend features, and integrated various systems.
 
 **Software Engineer (Intern) – Ipartner Consulting**
 Assisted with backend development, debugging, and real-world project implementations.
@@ -47,7 +44,7 @@ Assisted with backend development, debugging, and real-world project implementat
 
 **GitHub:** [ashenbandara02](https://github.com/ashenbandara02)
 **LinkedIn:** [Ashen Bandara](https://www.linkedin.com/in/ashen-bandara-976176284/)
-**Email:** ashen@arventics.com
+**Email:** bandaraashen02@gmail.com
 
 ## Wanna Have a Look at Some Analytics ?
 ### GitHub Streak & Stats
