@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Experienced Software Engineer with a strong focus on backend engineering, scalable web applications, DevOps, and system architecture and in diverse areas. Confidently Skilled in Python, Django, Flask, and modern web technologies, with proven experience delivering production-ready software, AI-integrated solutions, and automated deployment pipelines. Partnered with Spaceylon to create AI agents and web-based games for their platforms.
+Software Engineer with a strong focus on backend engineering, scalable web applications, DevOps, and system architecture and in diverse areas. Confidently Skilled in Python, Django, Flask, and modern web technologies, with proven experience delivering production-ready software, AI-integrated solutions, and automated deployment pipelines. Partnered with Spaceylon to create AI agents and web-based games for their platforms.
 
 ## Technical Skills
 
